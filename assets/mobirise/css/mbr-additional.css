@@ -1,4 +1,5 @@
 @import url(https://fonts.googleapis.com/css?family=Rubik:300,300i,400,400i,500,500i,700,700i,900,900i&display=swap);
+@import url(https://fonts.googleapis.com/css?family=Cinzel:400,700,900&display=swap);
 
 
 
@@ -40,7 +41,7 @@ body {
   font-size: 2.4rem;
 }
 .display-7 {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Cinzel', serif;
   font-size: 1rem;
   font-display: swap;
 }
@@ -546,7 +547,7 @@ a:hover {
   display: none;
 }
 .form-control {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Cinzel', serif;
   font-size: 1rem;
   font-display: swap;
 }
@@ -711,12 +712,12 @@ section.lazy-placeholder:after {
 }
 .cid-qTkzRZLJNu .navbar {
   padding: .5rem 0;
-  background: #333333;
+  background: #090909;
   transition: none;
   min-height: 77px;
 }
 .cid-qTkzRZLJNu .navbar-dropdown.bg-color.transparent.opened {
-  background: #333333;
+  background: #090909;
 }
 .cid-qTkzRZLJNu a {
   font-style: normal;
@@ -800,7 +801,7 @@ section.lazy-placeholder:after {
   padding-bottom: 0;
 }
 .cid-qTkzRZLJNu .dropdown .dropdown-menu {
-  background: #333333;
+  background: #090909;
   display: none;
   position: absolute;
   min-width: 5rem;
@@ -1097,9 +1098,6 @@ section.lazy-placeholder:after {
 .cid-qTkzRZLJNu .nav-link:hover,
 .cid-qTkzRZLJNu .dropdown-item:hover {
   color: #c1c1c1 !important;
-}
-.cid-qTkA127IK8 {
-  background-image: url("../../../assets/images/photos-2015-09-18-fst-1525nqyykee-v4-2000x1333.jpg");
 }
 #instagram-feed-block-b .inst__title {
   color: #767676;
